@@ -39,9 +39,24 @@ function go () {
     } 
   }
 
-  //for (var i = minY; i <= maxY; i++) {
-
-  //}
+  var div = document.createElement('div');
+  var htmlText = '';
+  htmlText += '<div>';  
+  htmlText += '<table>';
+  for (var i = minY; i <= maxY; i++) {
+    htmlText += '<tr>';
+    for (var j = minX; j <= maxX; j++) {
+      htmlText += '<td>';
+      htmlText += '' + j + ', ' + i;
+      htmlText += '</td>';
+    }
+    htmlText += '</tr>';
+  }
+  htmlText += '</table>';
+  htmlText += '</div>';  
+  
+  div.innerHTML = htmlText;  
+  document.getElementById('content').appendChild(div);
 
   console.log('minX:' + minX);
 
