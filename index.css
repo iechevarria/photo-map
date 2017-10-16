@@ -1,5 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+}
 td {
-  border: 1px solid black;
-  min-height: 400px;
+  height: 400px;
   min-width: 400px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+#content {
+  display: inline-block;
+}
+.container {
+  display: inline-block;
+}
+.container table {
+  margin: auto;
 }
