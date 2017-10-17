@@ -76,5 +76,18 @@ data = [
     "label": "eliot 4/4",
     "img": "03.jpg"
   },
-
+  {
+    "x": -2,
+    "y": 2,
+    "color": "#0f0",
+    "label": "eliot 4/4",
+    "img": "03.jpg"
+  },
+  {
+    "x": -2,
+    "y": 1,
+    "color": "#f00",
+    "label": "ivan 6/17",
+    "img": "01.jpg"
+  },
 ];

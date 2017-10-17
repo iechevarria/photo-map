@@ -19,13 +19,25 @@ function loadImages () {
     }
   }
 
+  if (maxX > -minX) {
+    xBound = maxX;
+  } else {
+    xBound = -minX;
+  }
+
+  if (maxY > -minY) {
+    yBound = maxY;
+  } else {
+    yBound = -minY;
+  }
+
   var div = document.createElement('div');
   div.setAttribute('class', 'container');
   var htmlText = '';
   htmlText += '<table>';
-  for (var i = minY; i <= maxY; i++) {
+  for (var i = -yBound; i <= yBound; i++) {
     htmlText += '<tr>';
-    for (var j = minX; j <= maxX; j++) {
+    for (var j = -xBound; j <= xBound; j++) {
       isPopulated = false;
 
       for (var key in data) {
