@@ -111,11 +111,20 @@ data = [
     "label": "tabitha 10/18",
     "img": "TT01.jpg"
   },
+<<<<<<< HEAD
     {
     "x": -2,
     "y": 0,
     "color": "#f00",
     "label": "ELIOT 6/18",
     "img": "some_found.jpg"
+=======
+  {
+    "x": 0,
+    "y": 3,
+    "color": "#f00",
+    "label": "lynette01",
+    "img": "img/04.jpg"
+>>>>>>> d5e157eedb94177647f02cf7e6ad5135af22efc2
   },
 ];
