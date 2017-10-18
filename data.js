@@ -14,6 +14,13 @@ data = [
     "img": "04.jpg"
   },
   {
+    "x": -3,
+    "y": 0,
+    "color": "#f00",
+    "label": “Lillian 10/18”,
+    "img": “pwc_cute_puppies.jpg"
+  },
+  {
     "x": 1,
     "y": 1,
     "color": "#00f",
