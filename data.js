@@ -117,6 +117,13 @@ data = [
     "color": "#f00",
     "label": "ELIOT 6/18",
     "img": "some_found.jpg"
+  },  
+  {
+    "x": 2,
+    "y": -1,
+    "color": "#f00",
+    "label": "XiRico20171018",
+    "img": "07.jpg"
   },
   {
     "x": 0,
