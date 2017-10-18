@@ -17,8 +17,8 @@ data = [
     "x": -3,
     "y": 0,
     "color": "#f00",
-    "label": “Lillian 10/18”,
-    "img": “pwc_cute_puppies.jpg"
+    "label": "Lillian 10/18/17",
+    "img": "pwc_cute_puppies.jpg"
   },
   {
     "x": 1,
