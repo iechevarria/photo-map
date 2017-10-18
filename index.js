@@ -35,7 +35,7 @@ function loadImages () {
   div.setAttribute('class', 'container');
   var htmlText = '';
   htmlText += '<table>';
-  for (var i = -yBound; i <= yBound; i++) {
+  for (var i = yBound; i >= -yBound; i--) {
     htmlText += '<tr>';
     for (var j = -xBound; j <= xBound; j++) {
       isPopulated = false;
