@@ -111,4 +111,11 @@ data = [
     "label": "tabitha 10/18",
     "img": "TT01.jpg"
   },
+  {
+    "x": 0,
+    "y": 3,
+    "color": "#f00",
+    "label": "lynette01",
+    "img": "img/04.jpg"
+  },
 ];
