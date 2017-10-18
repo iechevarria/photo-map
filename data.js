@@ -106,7 +106,7 @@ data = [
   },
   {
     "x": 0,
-    "y": -2,
+    "y": 2,
     "color": "#f00",
     "label": "tabitha 10/18",
     "img": "TT01.jpg"
