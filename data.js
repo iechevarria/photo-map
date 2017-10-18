@@ -111,4 +111,11 @@ data = [
     "label": "tabitha 10/18",
     "img": "TT01.jpg"
   },
+    {
+    "x": -2,
+    "y": 0,
+    "color": "#f00",
+    "label": "ELIOT 6/18",
+    "img": "some_found.jpg"
+  },
 ];
