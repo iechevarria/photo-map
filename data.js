@@ -11,7 +11,7 @@ data = [
     "y": -3,
     "color": "#f00",
     "label": "Emma 10/18/17",
-    "img": "04.jpg"
+    "img": "06.jpg"
   },
   {
     "x": -3,
