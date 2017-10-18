@@ -123,6 +123,6 @@ data = [
     "y": 3,
     "color": "#f00",
     "label": "lynette01",
-    "img": "img/04.jpg"
+    "img": "ls04.jpg"
   },
 ];
