@@ -1,135 +1,86 @@
 data = [
   {
+    "id": "cx",
     "x": 0,
     "y": 0,
-    "color": "#f00",
-    "label": "ivan 6/17",
-    "img": "01.jpg"
+    "img": "cx01.jpg"
   },
   {
-    "x": 0,
-    "y": -3,
-    "color": "#f00",
-    "label": "Emma 10/18/17",
-    "img": "06.jpg"
-  },
-  {
-    "x": -3,
-    "y": 0,
-    "color": "#f00",
-    "label": "Lillian 10/18/17",
-    "img": "pwc_cute_puppies.jpg"
-  },
-  {
-    "x": 1,
-    "y": 1,
-    "color": "#00f",
-    "label": "tabitha 12/1",
-    "img": "02.jpg"
-  },
-  {
-    "x": -1,
-    "y": -1,
-    "color": "#0f0",
-    "label": "eliot 4/4",
-    "img": "03.jpg"
-  },
-  {
-    "x": 1,
-    "y": -1,
-    "color": "#f00",
-    "label": "ivan 6/17",
-    "img": "01.jpg"
-  },
-  {
-    "x": 0,
-    "y": 1,
-    "color": "#00f",
-    "label": "tabitha 12/1",
-    "img": "02.jpg"
-  },
-  {
-    "x": 0,
-    "y": -1,
-    "color": "#0f0",
-    "label": "eliot 4/4",
-    "img": "03.jpg"
-  },
-  {
-    "x": -1,
-    "y": 1,
-    "color": "#f00",
-    "label": "ivan 6/17",
-    "img": "01.jpg"
-  },
-  {
-    "x": 1,
-    "y": 0,
-    "color": "#00f",
-    "label": "tabitha 12/1",
-    "img": "02.jpg"
-  },
-  {
-    "x": -1,
-    "y": 0,
-    "color": "#0f0",
-    "label": "eliot 4/4",
-    "img": "03.jpg"
-  },
-  {
+    "id": "zl",
     "x": 2,
     "y": 0,
-    "color": "#f00",
-    "label": "ivan 6/17",
-    "img": "01.jpg"
+    "img": "zl01.jpg"
   },
   {
-    "x": 0,
+    "id": "zl",
+    "x": -2,
+    "y": 0,
+    "img": "zl02.jpg"
+  },
+   {
+    "id": "zl",
+    "x": -1,
     "y": -2,
-    "color": "#0f0",
-    "label": "eliot 4/4",
-    "img": "03.jpg"
+    "img": "zl04.jpg"
   },
   {
-    "x": -2,
-    "y": 2,
-    "color": "#0f0",
-    "label": "eliot 4/4",
-    "img": "03.jpg"
-  },
-  {
-    "x": -2,
-    "y": 1,
-    "color": "#f00",
-    "label": "ivan 6/17",
-    "img": "01.jpg"
-  },
-  {
+    "id": "zl",
     "x": 0,
-    "y": 2,
-    "color": "#f00",
-    "label": "tabitha 10/18",
-    "img": "TT01.jpg"
+    "y": -1,
+    "img": "zl03.jpg"
+  },
+    {
+    "id": "lz",
+    "x": 1,
+    "y": 0,
+    "img": "lz01.jpg"
   },
   {
-    "x": -2,
+    "id": "rx",
+    "x": -1,
     "y": 0,
-    "color": "#f00",
-    "label": "ELIOT 6/18",
-    "img": "some_found.jpg"
-  },  
+    "img": "rx01.jpg"
+  },
   {
+    "id": "lz",
+    "x": -1,
+    "y": -1,
+    "img": "lz02.jpg"
+  },
+  {
+    "id": "ja",
+    "x": 1,
+    "y": 1,
+    "img": "ja01.jpg"
+  },
+  {
+   "id": "lz",
+    "x": 1,
+    "y": -1,
+    "img": "lz03.jpg"
+  },
+  {
+    "id": "tt",
+    "x": -1,
+    "y": 1,
+    "img": "tt02.jpg"
+  },
+  {
+    "id": "rx",
     "x": 2,
     "y": -1,
-    "color": "#f00",
-    "label": "XiRico20171018",
-    "img": "07.jpg"
+    "img": "rx02.jpg"
   },
   {
+    "id": "tt",
     "x": 0,
-    "y": 3,
-    "color": "#f00",
-    "label": "lynette01",
-    "img": "ls04.jpg"
+    "y": 1,
+    "img": "tt01.jpg"
+  },
+  {
+    "id": "tt",
+    "x": 1,
+    "y": -2,
+    "img": "tt03.jpg"
   },
 ];
